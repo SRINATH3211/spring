@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: scholastic.teams
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: srina
+Implementation-Vendor-Id: common.scholastic.teams
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/scholastic.teams
+Created-By: Maven Integration for Eclipse
+
